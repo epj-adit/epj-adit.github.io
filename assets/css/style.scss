@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    background: url("../images/logo.png") center left no-repeat contain;
+}
+header * {
+    padding-left: 100px;
+}
