@@ -1,20 +1,11 @@
-## 📓 Dokumentation
-
-<a href="https://github.com/epj-adit/documentation" class="inline-button github-button" style="float: right;"><span>GitHub Repository</span></a>
+## 📓 [Dokumentation](https://github.com/epj-adit/documentation)
 
 
-## 🌠 Frontend (Client)
-
-<a href="https://github.com/epj-adit/frontend" class="inline-button github-button" style="float: right;"><span>GitHub Repository</span></a>
+## 🌠 [Frontend (Client)](https://github.com/epj-adit/frontend)
 
 
-## 🏄 Backend (Server)
-
-<a href="https://github.com/epj-adit/backend" class="inline-button github-button" style="float: right;"><span>GitHub Repository</span></a>
+## 🏄 [Backend (Server)](https://github.com/epj-adit/backend)
 
 
-## 🛠️ Infrastruktur
-
-<a href="https://github.com/epj-adit/infrastructure" class="inline-button github-button" style="float: right;"><span>GitHub Repository</span></a>
-
+## 🛠️ [Infrastruktur](https://github.com/epj-adit/infrastructure)
 
