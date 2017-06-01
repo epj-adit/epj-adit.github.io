@@ -6,18 +6,22 @@ Von Michael Wieland, Nico Vinzens, Murièle Trentini, Fabian Hauser und Oliver D
 - [Projektantrag](#)
 - [Projektplan](#)
 - [Anforderungsspezifikationen](#)
+  - Use Case Diagramm
+  - Use Cases
+  - Abuse Cases
 - [Domainanalyse](#)
 - [Architekturdokument und CI](#)
 - [Testspezifikation(en) und Testprotokoll(e)](#)
 - [Zeiterfassung und Zeitauswertung](#)
-- [Zeiten Soll/Ist Vergleiche ("geschätzt/tatsächlich gemacht")](#)
+  - Zeiten Soll/Ist Vergleiche
+  - geschätzt vs. tatsächlich gemacht
 - [Persönliche Berichte / Rückblick](#)
 - [Präsentation](#)
 - [Erklärung zur eigenständigen Durchführung der Arbeit](#)
 
 - [Protokolle](#)
 
-- [Projektmanagement / Issue list https://project.qo.is/projects/engineering-projekt/issues](#)
+- [Projektmanagement / Issue list](https://project.qo.is/projects/engineering-projekt/issues)
 
 ## 📝 [Frontend (Client)](https://github.com/epj-adit/frontend)
 

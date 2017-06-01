@@ -32,21 +32,22 @@ a {
         }
 }
 
-ul {
+:not(li) > ul {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 2em;
-    li {
+    > li {
         list-style-type: none;
         border: 1px solid black;
         margin: 0.25em;
+        padding-bottom: 1em;
         background-color: rgb(54, 67, 82);
         color: white;
         flex: 1 1 33%;
         @include shadow();
         border-left: 6px solid #FE4E4D;
         a {
-            padding: 1em;
+            padding: 1em 1em 0 1em;
             color: #f2f2f2;
             text-shadow: 0 0 black;
             font-weight: bold;
@@ -55,6 +56,15 @@ ul {
                 color: #FE4E4D;
             }
         }
+        & > ul {
+            > li {
+            padding: 0 1em 0 2em;
+            display: block;
+            font-weight: normal;
+            text-shadow: 0 0 black;
+            font-size: small;
+        }
+    }
     }
 }
 
