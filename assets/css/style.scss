@@ -12,17 +12,31 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 ul li {
     display: block;
-    width: 46%;
-    margin: 1%;
     padding: 1em;
     margin: 0;
+    flex: 1 0 50%;
+    font-size: 18px;
+    box-sizing: border-box;
+    width: 300px;
 
     border: solid 1px #BBBBBB;
     border-radius: 3px;
     box-shadow: 3px #8E8D8D;
     background-color: #E8E8E8;
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.items .item {
+  background: #e0ddd5;
+  color: #171e42;
+  padding: 10px;
 }
