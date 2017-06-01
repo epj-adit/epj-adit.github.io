@@ -3,40 +3,59 @@
 
 @import "{{ site.theme }}";
 
+@mixin shadow($horizontal: 0, $vertical: 2px, $blur: 5px, $spread: 0){
+  -moz-box-shadow: $horizontal $vertical $blur $spread rgba(0, 0, 0,0.25);
+  -webkit-box-shadow: $horizontal $vertical $blur $spread rgba(0, 0, 0, .25);
+  box-shadow: $horizontal $vertical $blur $spread rgba(0, 0, 0, .25);
+}
+
+body {
+    background-color: #EAF1F5;
+}
+
 header img {
     width: 200px;
     margin-left: -50px;
 }
 
-ul {
+ul, ul li{
     margin: 0;
     padding: 0;
+}
+
+a {
+    color: rgb(54, 67, 82);
+    text-shadow: 0 0 black;
+    font-weight: bold;
+        &:hover {
+            color: #FE4E4D;
+        }
+}
+
+ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    margin-bottom: 2em;
+    li {
+        list-style-type: none;
+        border: 1px solid black;
+        margin: 0.25em;
+        background-color: rgb(54, 67, 82);
+        color: white;
+        flex: 1 1 33%;
+        @include shadow();
+        border-left: 6px solid #FE4E4D;
+        a {
+            padding: 1em;
+            color: #f2f2f2;
+            text-shadow: 0 0 black;
+            font-weight: bold;
+            display: block;
+            &:hover {
+                color: #FE4E4D;
+            }
+        }
+    }
 }
 
-ul li {
-    display: block;
-    padding: 1em;
-    margin: 0;
-    flex: 1 0 50%;
-    font-size: 18px;
-    box-sizing: border-box;
-    width: 300px;
 
-    border: solid 1px #BBBBBB;
-    border-radius: 3px;
-    box-shadow: 3px #8E8D8D;
-    background-color: #E8E8E8;
-}
-
-.items {
-  display: flex;
-  flex-wrap: wrap;
-}
-.items .item {
-  background: #e0ddd5;
-  color: #171e42;
-  padding: 10px;
-}
