@@ -47,7 +47,7 @@ Von Michael Wieland, Nico Vinzens, Murièle Trentini, Fabian Hauser und Oliver D
 
 - [Sourcecode](https://github.com/epj-adit/frontend)
   - auf Github
-- [Code Dokumentation]()
+- [Code Dokumentation](assets/frontend-docs/app/index.html)
   - Generierte Code-Dokumentation
 - [Codestatistik](https://raw.githubusercontent.com/epj-adit/documentation/master/10_Codestatistik.pdf)
   -  Anzahl Zeilen Code netto, Anzahl Klassen
@@ -62,8 +62,6 @@ Von Michael Wieland, Nico Vinzens, Murièle Trentini, Fabian Hauser und Oliver D
 
 - [Sourcecode](https://github.com/epj-adit/backend)
   - auf Github
-- [Code Dokumentation?]()
-  - Generierte Code-Dokumentation
 - [Codestatistik](https://raw.githubusercontent.com/epj-adit/documentation/master/10_Codestatistik.pdf)
   - Anzahl Zeilen Code netto, Anzahl Klassen
 - [CI Konfiguration](https://github.com/epj-adit/backend/blob/master/.travis.yml)
