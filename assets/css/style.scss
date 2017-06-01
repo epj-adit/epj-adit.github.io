@@ -7,3 +7,22 @@ header img {
     width: 200px;
     margin-left: -50px;
 }
+
+.blocklist ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.blocklist ul li {
+    display: block;
+    width: 46%;
+    margin: 1%;
+    padding: 1em;
+    margin: 0;
+
+    border: solid 1px #BBBBBB;
+    border-radius: 3px;
+    box-shadow: 3px #8E8D8D;
+    background-color: #E8E8E8;
+}
