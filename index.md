@@ -5,7 +5,7 @@ Von Michael Wieland, Nico Vinzens, Murièle Trentini, Fabian Hauser und Oliver D
 
 - [Projektantrag](https://raw.githubusercontent.com/epj-adit/documentation/master/1_Projektplan/Projektantrag_adit.pdf)
   - Anfänglicher Projektantrag Engineering Projekt 
-- [Projektplan](https://raw.githubusercontent.com/epj-adit/documentation/master/)
+- [Projektplan](https://github.com/epj-adit/documentation/tree/master/1_Projektplan)
   - Technische und eingetretene Risiken
   - Testplan
 - [Anforderungsspezifikationen](https://raw.githubusercontent.com/epj-adit/documentation/master/2_Anforderungsspezifikation.pdf)
@@ -14,20 +14,20 @@ Von Michael Wieland, Nico Vinzens, Murièle Trentini, Fabian Hauser und Oliver D
 - [Domainanalyse](https://raw.githubusercontent.com/epj-adit/documentation/master/3_Domainanalyse.pdf)
   - Domain Model
   - Systemsequenzdiagramme
-- [Architekturdokument](https://raw.githubusercontent.com/epj-adit/documentation/master/)
+- [Architekturdokumente](https://github.com/epj-adit/documentation/tree/master/4_Architekturdokumente)
   - Systemübersicht, Logische Architektur, Datenspeicherung
   - Übersicht Infrastruktur und Continuous Integration (CI)
   - Tools, Grössen und Leistungen
   - Spezifikation REST API
   - Benutzer-Permissions
-- [Testspezifikationen und Testprotokolle](https://raw.githubusercontent.com/epj-adit/documentation/master/)
+- [Testspezifikationen und Testprotokolle](https://github.com/epj-adit/documentation/tree/master/5_Tests)
   - Unit Tests, Integration Tests
   - Systemtests, Nicht funktionale Tests
 
 
 - [Präsentation](https://raw.githubusercontent.com/epj-adit/documentation/master/13_adit_presentation.pdf)
   - Abschlusspräsentation Projekt
-- [Zeiterfassung und Zeitauswertung](https://raw.githubusercontent.com/epj-adit/documentation/master/)
+- [Zeiterfassung und Zeitauswertung](https://github.com/epj-adit/documentation/tree/master/9_Zeitauswertung)
   - Zeiten soll/ist Vergleiche
   - Geschätzte vs. tatsächliche Umsetzungen
 - [Rückblick](https://raw.githubusercontent.com/epj-adit/documentation/master/12_Erfahrungsberichte.pdf)
@@ -35,7 +35,8 @@ Von Michael Wieland, Nico Vinzens, Murièle Trentini, Fabian Hauser und Oliver D
   - Persönliche Berichte
 - [Erklärung zur eigenständigen Durchführung der Arbeit](https://raw.githubusercontent.com/epj-adit/documentation/master/14_Erklaerung_eigenstaendige_Arbeit.pdf)
 
-- [Protokolle](#)
+- [Protokolle](https://github.com/epj-adit/documentation/tree/master/15_Sitzungsprotokolle)
+  - Sitzungen
   - Besprechungen, Projekt Meetings
 
 - [Projektmanagement / Issue Liste](https://project.qo.is/projects/engineering-projekt/issues)
